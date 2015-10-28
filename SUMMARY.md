@@ -1,8 +1,8 @@
-* [KeKeNet接口设计文档](master/README.md)
+* [KeKeNet接口设计文档]()
  - [文档概述](master/introduction.md)
  - [状态码](master/statusCode.md)
  - [备注](master/remark.md)
-* [用户类](user/README.md)
+* [用户类]()
  - [获取个人主页](user/getspace.md)
  - [获取消息中心](user/messageceneter.md)
  - [获取任务信息](user/gettaskmsg.md)
@@ -27,9 +27,9 @@
  - [用户绑定](user/userbind.md)
  - [用户取消绑定](user/usercancelbind.md)
  - [根据邮箱查询用户名](user/getusernamesbyemail.md)
-* [节目文章类](program/README.md)
- - [获取最新节目**多个**(全部-听-说-读)的全部}](program/newcolumnlists.md)
- - [获取最新节目**单个**(全部-听-说-读)的读)](program/getcolumnlist.md)
+* [节目文章类]()
+ - [获取最新节目多个(全部-听-说-读)的全部}](program/newcolumnlists.md)
+ - [获取最新节目单个(全部-听-说-读)的读)](program/getcolumnlist.md)
  - [文章内容](program/getcontent.md)
  - [获取子栏目信息](program/getsubcategorys.md)
  - [节目详情](program/getcategoryinfo.md)
@@ -45,27 +45,28 @@
  - [添加文章评论](program/newscomment.md)
  - [文章评论列表](program/newscommentlist.md)
 * [私信类]()
- - [删除私信]()
- - [添加私信]()
- - [搜索私信]()
- - [忽略信息]()
- - [通知类]()
- - [搜索通知信息]()
- - [小组类]()
- - [获取推荐小组信息]()
- - [小组推荐名称列表（发现小组）]()
- - [获取我的小组]()
- - [获取我的小组更多]()
- - [话题列表(threadlist)]()
- - [话题回帖列表]()
- - [添加话题]()
- - [添加回帖]()
- - [加入小组]()
- - [退出小组]()
- - [热门话题列表]()
- - [获取话题信息]()
- - [点赞]()
- - [动态类]()
+ - [删除私信](privateMsg/deletemsgs.md)
+ - [添加私信](privateMsg/addmsg.md)
+ - [搜索私信](privateMsg/searchmsg.md)
+ - [忽略信息](privateMsg/overlookmsg.md)
+* [通知类]()
+ - [搜索通知信息](notification/searchmsg.md)
+* [小组类]()
+ - [获取推荐小组信息](group/recommendmtag.md)
+ - [小组推荐名称列表（发现小组）](group/recommendmtagnamelist.md)
+ - [获取我的小组](group/myteam.md)
+ - [获取我的小组更多](group/myteammore.md)
+ - [话题列表(threadlist)](group/threadlist.md)
+ - [话题回帖列表](group/postlist.md)
+ - [添加话题](group/addthread.md)
+ - [添加回帖](group/addpost.md)
+ - [加入小组](group/mtag_join.md)
+ - [退出小组](group/mtag_quitmtag.md)
+ - [热门话题列表](group/posthot.md)
+ - [获取话题信息](group/threadmsg.md)
+ - [点赞](group/praise.md)
+ - [回复点赞](group/postpraise.md)
+* [动态类]()
  - [动态点赞]()
  - [动态点赞列表]()
  - [添加动态]()
@@ -77,3 +78,68 @@
  - [朋友动态列表]()
  - [推荐达人]()
  - [关注-动态列表]()
+* [单词类]()
+ - [单词库]()
+ - [单词列表]()
+ - [获取单词信息]()
+ - [文章生词列表]()
+ - [划词]()
+ - [单词搜索]()
+ - [背单词点赞]()
+ - [添加背诵日志]()
+ - [背诵排序]()
+* [学堂类]()
+ - [获取学堂等级]()
+ - [获取学堂首页]()
+ - [添加学堂课程]()
+ - [取消学堂课程]()
+ - [我的学堂训练]()
+ - [设置学堂点赞]()
+ - [获取听内容]()
+ - [添加测试句子]()
+ - [获取测试过的句子]()
+ - [获取课程章节列表]()
+* [订单类]()
+ - [我的订单]()
+* [积分类]()
+ - [我的积分纪录]()
+* [收藏类]()
+ - [我的文章收藏列表]()
+ - [我的文章浏览记录]()
+ - [节目收藏列表]()
+ - [添加节目收藏]()
+ - [取消节目收藏]()
+ - [添加文章收藏]()
+ - [取消文章收藏]()
+ - [添加文章浏览记录]()
+ - [取消文章浏览记录]()
+* [朋友类]()
+ - [邀请朋友]()
+ - [激活邀请码]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
