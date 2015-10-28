@@ -1,6 +1,7 @@
 sign.properties
 # Gradle files
 .gradle
+book.json
 /build
 /_book
 # Local configuration file (sdk path, etc)

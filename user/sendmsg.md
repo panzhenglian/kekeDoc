@@ -7,6 +7,7 @@
         "mobile": "13693388010",
          "username":"hedeyong",//注册的时候必须，其他可选
          "flag": "register" // 发送类别标记，有两种 register，forget，bind
+		 "isnew":1//新版本注册时添加，不用传递用户名
     },
     "Terminal": 3,
     "Version": "1.0",//1.0 ，2.0 都是一样
@@ -17,7 +18,8 @@
 }
 ```
 
-> 备注：除了注册和忘记密码外，绑定手机需要传uid 和 token  
+> 备注：除了注册和忘记密码外，绑定手机需要传uid 和 token 
+> 新版本注册 
 
 **JSON返回示例：**  
 ```json

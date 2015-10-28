@@ -2,6 +2,7 @@
   "title": "可可英语接口文档",
   "description": "这是可可英语接口文档",
   "language": "cn",
+  "output":"../../Program Files/apache-tomcat-7.0.59/webapps/kekedoc",
   "structure": {
     "readme": "README.md"
   }
