@@ -1,7 +1,9 @@
 # 获取最新节目**单个**(全部-听-说-读)的读)
 **效果图**    
 
-![效果图](../image/read.png)
+<!-- ![效果图](../image/read.png) -->
+
+<img src="../image/read.png" width = "400" height = "326" align=center />
 
 **JSON请求示例：**
 ```json
