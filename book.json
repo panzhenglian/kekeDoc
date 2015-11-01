@@ -18,5 +18,9 @@
             "google": true,
             "weibo": true
         }
-    }
+    },
+    "plugins": [
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {}
 }
