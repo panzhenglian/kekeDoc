@@ -2,7 +2,7 @@
 1. [获取最新节目**多个**(全部-听-说-读)的全部}](newcolumnlists.md)
 - [获取最新节目**单个**(全部-听-说-读)的读)](getcolumnlist.md)
 - [文章内容](getcontent.md)
-- [getChild](getsubcategorys.md)
+- [获取子栏目信息](getsubcategorys.md)
 - [节目详情](getcategoryinfo.md)
 - [节目推荐小组](getteamlist.md)
 - [搜索文章](searcharticle.md)

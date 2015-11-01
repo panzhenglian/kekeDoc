@@ -1,0 +1,12 @@
+# 动态类
+1. [动态点赞](praise.md)
+- [动态点赞列表](praiselist.md)
+- [添加动态](add.md)
+- [获取动态信息](getdoingmsg.md)
+- [回复楼主](replyhost.md)
+- [回复动态（回复-回复）](reply.md)
+- [我的动态列表](mydoinglist.md)
+- [动态列表（全部）](doinglist.md)
+- [朋友动态列表](frienddoinglist.md)
+- [推荐达人](recommendexpert.md)
+- [关注-动态列表](attentiondoinglist.md)

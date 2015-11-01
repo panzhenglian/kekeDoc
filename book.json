@@ -1,5 +1,23 @@
 {
-  "language": "en",
+  "language": "cn",
   "title":"可可英语接口文档",
-  "plugins": ["collapsible-menu"]
+      "variables": {
+        "title": "前端工程师文档",
+        "theme": "theme-gray",
+        "copyright": "Copyright 2015 f2edocs.com"
+    },
+    "collapsible_menu":true,
+    "level_number":false,
+    "links": {
+        "gitbook": false,
+        "sharing": {
+            "all":false,
+            "vk": false,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true
+        }
+ 
+    }
 }
