@@ -18,9 +18,5 @@
             "google": true,
             "weibo": true
         }
-    },
-    "plugins": [
-        "collapsible-menu@1.0.2"
-    ],
-    "pluginsConfig": {}
+    }
 }
