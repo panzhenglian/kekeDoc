@@ -1,10 +1,11 @@
 {
     "language": "cn",
     "title": "可可英语接口文档",
+    "gitbook": "2.4.3",
     "variables": {
         "title": "可可英语接口文档",
         "theme": "theme-gray",
-        "copyright": "Copyright 2015 f2edocs.com"
+        "copyright": "Copyright 2015 可可英语科技有限公司"
     },
     "collapsible_menu": true,
     "level_number": false,
